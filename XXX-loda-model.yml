@@ -1,0 +1,12 @@
+---
+metadata:
+  name: XXX
+  generated:
+    inputs: [google-analytics]
+    host: http://dupa.pl
+    date: 2017-05-11T15:23:03.748Z
+    generation-time: 1.306s
+
+requests:
+
+actors:
